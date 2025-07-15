@@ -23,7 +23,7 @@ This MATLAB project simulates a basic wireless receiver using the IEEE 802.11 No
 
 ## File Structure
 
-- `WirelessReceiverSim.m`: Main MATLAB simulation file.
+- `WirelessReceiverSimulation.m`: Main MATLAB simulation file.
 
 
 
